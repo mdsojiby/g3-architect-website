@@ -127,6 +127,29 @@ font-weight: 500;
     font-weight: 500;
 }
 
+/* features responsive */
+
+#fecture-section-id{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+.feture-card{
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    padding: 20px;
+}
+
+.features{
+    gap: 140px;
+}
+
+.feture-card,.feture-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 
 /* fact related responsive */
 
